@@ -6,18 +6,15 @@
 		<element>mod_jtvisualblocks</element>
 		<type>module</type>
 		<client>site</client>
-		<version>0.1.10</version>
+		<version>0.1.11</version>
 		<infourl title="JT Visual Blocks">https://github.com/joomtheme/mod_jtvisualblocks</infourl>
-
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/joomtheme/mod_jtvisualblocks/releases/download/v0.1.10/mod_jtvisualblocks_v0.1.10.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/joomtheme/mod_jtvisualblocks/releases/download/v0.1.11/mod_jtvisualblocks_v0.1.11.zip</downloadurl>
 		</downloads>
-
 		<tags>
 			<tag>stable</tag>
 		</tags>
-
-		<sha256>51604d5f5f30e66f1f8af1f859d6c37f264749813a9d60277cf60f90d702f198</sha256>
+		<sha256>ca088e97a3991aa1a4b44c9a2eadb7e802d04335bb06de898e2b4972d5a9f309</sha256>
 		<maintainer>JoomTheme</maintainer>
 		<maintainerurl>https://joomtheme.com</maintainerurl>
 		<section>Updates</section>

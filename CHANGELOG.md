@@ -2,6 +2,12 @@
 
 All notable changes to **JT Visual Blocks** will be documented in this file.
 
+## [0.1.11] - 2026-06-04
+
+### Fixed
+- Added module help metadata to prevent Joomla help screen errors in the module edit view.
+- Pointed the Help button to the GitHub Issues page for support and issue reporting.
+
 ## [0.1.10] - 2026-06-04
 
 ### Added
