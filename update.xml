@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>JT Visual Blocks</name>
+		<description>Lightweight Bootstrap 5 visual content blocks for Joomla.</description>
+		<element>mod_jtvisualblocks</element>
+		<type>module</type>
+		<client>site</client>
+		<version>0.1.10</version>
+		<infourl title="JT Visual Blocks">https://github.com/joomtheme/mod_jtvisualblocks</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/joomtheme/mod_jtvisualblocks/releases/download/v0.1.10/mod_jtvisualblocks_v0.1.10.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>JoomTheme</maintainer>
+		<maintainerurl>https://joomtheme.com</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="6.*" />
+	</update>
+</updates>
