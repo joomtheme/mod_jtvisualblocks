@@ -126,6 +126,43 @@ Tested with the default Joomla template.
 
 ---
 
+## Screenshots
+
+### Module Settings
+![Module Settings](screenshots/admin-module.png)
+
+Choose the block type, layout width, spacing, text alignment and manual badges from the main module tab.
+
+### Accessibility Options
+![Accessibility Options](screenshots/admin-accessibility.png)
+
+Configure ARIA label support and heading levels to keep a clean and accessible page structure.
+
+### Content Fields
+![Content Fields](screenshots/admin-content.png)
+
+Add manual title, subtitle, description, image and image alt text for Hero, CTA and manual article style blocks.
+
+### Buttons
+![Buttons](screenshots/admin-buttons.png)
+
+Configure primary, secondary and optional PayPal buttons with custom text and links.
+
+### Article Highlight
+![Article Highlight](screenshots/admin-article-highlight.png)
+
+Display manual content, a selected article or articles from a category with title, image, read more and metadata controls.
+
+### Feature Cards
+![Feature Cards](screenshots/admin-feature-cards.png)
+
+Create responsive feature cards with columns, card style, badges, icons, images, text and buttons.
+
+### FAQ Accordion
+![FAQ Accordion](screenshots/admin-faq-accordion.png)
+
+Build a Bootstrap 5 FAQ accordion with question and answer items, layout options and numbering controls.
+
 ## Update Server
 
 JT Visual Blocks includes Joomla update server support.
