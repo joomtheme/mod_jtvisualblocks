@@ -1,1 +1,1 @@
-# JT-Diet-Component
+# mod_jtvisualblocks
